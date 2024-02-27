@@ -23,6 +23,13 @@ body {
   background-color: black;
 }
 
+#title{
+  color: #4AF626;
+  font-family: "digital-7";
+  text-align: center;
+  padding-top: 1rem;
+}
+
 #number {
   border: solid #4AF626 2px;
   border-radius: 20px;
@@ -44,7 +51,7 @@ body {
 
 .btn {
   font-size: 1rem;
-  font-family: Arial;
+  font-family: "digital-7";
   font-weight: bold;
   padding: 0.5rem;
   border-radius: 10px;
@@ -61,3 +68,4 @@ body {
 .btn:active{
   background-color: yellow;
 }
+
